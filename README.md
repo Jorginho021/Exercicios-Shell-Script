@@ -3,7 +3,9 @@
 
 Exercicio 1 - Mensagem de Boas-Vindas
 
-<img width="1862" height="845" alt="a215253c-5eb9-4122-bc2c-5eeb5bec9728" src="https://github.com/user-attachments/assets/28a6b011-38c2-4e06-9caf-9e3cfca12905" 
+<img width="1713" height="918" alt="08976582-a838-42c8-b26b-a8ab4e4def9d" src="https://github.com/user-attachments/assets/6c3124a1-42d6-48f1-8ed7-43fc2561a033" />
+
+
 Exercício 2 — Saudação com Nome
 
 /><img width="1667" height="943" alt="1f50597c-fb8d-4190-ae1e-b2bc77acf3e9" src="https://github.com/user-attachments/assets/2dc11c8a-3f20-4a6a-bd16-d2635b0872b5" />
@@ -47,3 +49,23 @@ Exercício 13 — Verificador de Arquivo
 Exercício 14 — Backup Simples
 
 Exercício 15 — Organizador de Arquivos TXT
+
+Exercício 16 — Monitor de Espaço em Disco
+
+Exercício 17 — Relógio Digital
+
+Exercício 18 — Login Simples
+
+Exercício 19 — Menu Interativo
+
+Exercício 20 — Monitor de Internet
+
+Exercício 21 — Atualizador Automático do Ubuntu
+
+Exercício 22 — Cadastro Simples
+
+Exercício 23 — Gerador de Arquivo de Log
+
+Exercício 24 — Verificador de Usuário Linux
+
+Exercício 25 — Mini Sistema de Menu Administrativo
