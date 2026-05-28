@@ -24,29 +24,41 @@ Exercício 5 — Verificador de Maioridade
 <img width="1672" height="941" alt="3a0a15ed-8a28-445f-b71e-0eeda8ce004f" src="https://github.com/user-attachments/assets/05d3b071-1e6f-44d5-894c-1ee3a282066c" />
 
 Exercício 6 — Verificador de Número Par ou Ímpar
+<img width="1600" height="636" alt="a8cce610-0834-407a-b395-47bd4f04a542" src="https://github.com/user-attachments/assets/46f20666-f592-4d14-9eb7-9d7010a71d5f" />
 
 
 
 Exercício 7 — Conversor de Temperatura
+<img width="1703" height="923" alt="2549d1dd-b791-49c9-8c7c-4007423194b2" src="https://github.com/user-attachments/assets/b58b3852-401d-421a-a2b0-79c7b5ecd5dc" />
 
 
 Exercício 8 — Tabuada
 
+<img width="1660" height="948" alt="84fd8291-b40c-4271-b157-9b23d6daf1ef" src="https://github.com/user-attachments/assets/fe2b4cc1-4dcf-41e5-9020-2ffffb4e04b6" />
+
+
+
 
 Exercício 9 — Contador
+<img width="1593" height="987" alt="a7a27c1d-bbab-4af1-a144-1b6bb0782f5f" src="https://github.com/user-attachments/assets/6c9f4079-3b74-4df0-8a62-8d0d60160f99" />
 
 
 Exercício 10 — Contagem Regressiva
 
+<img width="1598" height="984" alt="3067d240-179a-4571-858c-4d3ec6f38d84" src="https://github.com/user-attachments/assets/be9789ba-0650-4b11-86cd-339663fd2d2a" />
 
 Exercício 11 — Criador de Pastas
 
+<img width="321" height="135" alt="90bcfdae-97c4-46b8-b992-70d81b0cdbc1" src="https://github.com/user-attachments/assets/6b322247-e1f2-480e-a7a3-33a4eb2ca9a4" />
 
 Exercício 12 — Criador de Estrutura de Projeto
+<img width="1710" height="920" alt="177c2098-b028-4583-a55e-d0d443971772" src="https://github.com/user-attachments/assets/350022b1-32d4-4dec-aae2-c1387d8af249" />
 
 Exercício 13 — Verificador de Arquivo
+<img width="1740" height="904" alt="6c7b81e9-e38a-4ea2-aa5c-c78703257f38" src="https://github.com/user-attachments/assets/7ee6e974-df6d-4b94-a4cc-5db03e4ae9a7" />
 
 Exercício 14 — Backup Simples
+<img width="1738" height="905" alt="72faa453-0e31-49f9-89ba-09aef6efa20c" src="https://github.com/user-attachments/assets/5c2920a6-4565-4127-af30-511b28528484" />
 
 Exercício 15 — Organizador de Arquivos TXT
 
