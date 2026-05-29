@@ -61,18 +61,25 @@ Exercício 14 — Backup Simples
 <img width="1738" height="905" alt="72faa453-0e31-49f9-89ba-09aef6efa20c" src="https://github.com/user-attachments/assets/5c2920a6-4565-4127-af30-511b28528484" />
 
 Exercício 15 — Organizador de Arquivos TXT
+<img width="1784" height="881" alt="23227cf6-d223-4221-bea8-d7d6a14c3ef9" src="https://github.com/user-attachments/assets/22a5dca1-c49e-43fc-8d11-4f982008e429" />
 
 Exercício 16 — Monitor de Espaço em Disco
 
+<img width="1536" height="1024" alt="4c12eef4-9c62-41de-ba3c-e0b7abe1cc89" src="https://github.com/user-attachments/assets/2acd5800-e93d-4738-9e1f-36d31ac049c4" />
 Exercício 17 — Relógio Digital
+<img width="1607" height="979" alt="85d7e02b-76f2-46ff-a964-388b7a1fd2d9" src="https://github.com/user-attachments/assets/a18b8b16-4ec0-45b5-83f9-c61633cac355" />
 
 Exercício 18 — Login Simples
+<img width="1458" height="1079" alt="60eac438-d934-4476-9f6d-91075d71e308" src="https://github.com/user-attachments/assets/ab31f698-ddbd-44df-ac1d-2f13599737c4" />
 
 Exercício 19 — Menu Interativo
+<img width="1448" height="1086" alt="4a7d2daa-8047-49a6-b113-1e7d8749e2d2" src="https://github.com/user-attachments/assets/c8e9bdc6-6320-4e3a-9bc7-6a684d5a89bf" />
 
 Exercício 20 — Monitor de Internet
+<img width="1672" height="941" alt="e4695526-d0fd-485f-b570-3a5cc88c03f7" src="https://github.com/user-attachments/assets/4ace17b8-9da3-4e3b-a2bc-985af75beb66" />
 
 Exercício 21 — Atualizador Automático do Ubuntu
+<img width="1542" height="1020" alt="f4c78020-e816-484d-a560-2e5b1bbe1973" src="https://github.com/user-attachments/assets/c1f05572-c503-4635-a062-640adabc802f" />
 
 Exercício 22 — Cadastro Simples
 
