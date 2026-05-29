@@ -82,9 +82,13 @@ Exercício 21 — Atualizador Automático do Ubuntu
 <img width="1542" height="1020" alt="f4c78020-e816-484d-a560-2e5b1bbe1973" src="https://github.com/user-attachments/assets/c1f05572-c503-4635-a062-640adabc802f" />
 
 Exercício 22 — Cadastro Simples
+<img width="1656" height="950" alt="9b9a37a1-f096-46d8-b36b-19b82c682f9e" src="https://github.com/user-attachments/assets/0009cef7-dc17-4d25-b15c-4aa5b213cc1c" />
 
 Exercício 23 — Gerador de Arquivo de Log
+<img width="1672" height="941" alt="20d4b176-ee16-4f1e-aa6f-fdb519d7c412" src="https://github.com/user-attachments/assets/613b0d9b-f3ad-4e52-825e-e768388e0161" />
 
 Exercício 24 — Verificador de Usuário Linux
+<img width="1672" height="941" alt="164191c2-2cb4-460b-bef6-34bbece5f2aa" src="https://github.com/user-attachments/assets/497c1722-afe1-440b-9178-bb1f4cc6f017" />
 
 Exercício 25 — Mini Sistema de Menu Administrativo
+<img width="1672" height="941" alt="621892ce-f5aa-4ac5-b2e7-d1b054e07fcd" src="https://github.com/user-attachments/assets/bd687725-3ae6-4df0-be66-d6d08ecb6996" />
